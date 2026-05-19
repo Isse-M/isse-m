@@ -1,7 +1,7 @@
 ## Hi there, I'm Ismail. 👋
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cs,py,js,ts,swift,spring,dotnet,nodejs,react,tensorflow,mysql,postgres,mongodb,docker,kubernetes,azure,idea,git,github,postman,cisco&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cs,py,js,ts,swift,spring,dotnet,nodejs,react,tensorflow,mysql,postgres,mongodb,docker,kubernetes,azure,idea,git,github,postman,cisco&perline=12)](https://skillicons.dev)
 <!--
 **Isse-M/isse-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
