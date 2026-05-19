@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Tech Stack
+
+Java C C# Python JavaScript TypeScript Swift Spring Boot Quarkus NodeJS React HTML CSS MySQL MongoDB Docker Kubernetes Azure Git GitHub Postman Cisco
 <!--
 **Isse-M/isse-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
